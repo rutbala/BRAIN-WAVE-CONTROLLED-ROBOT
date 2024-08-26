@@ -12,6 +12,8 @@ Block Diagram:-
 
 ![Screenshot 2024-08-26 112610](https://github.com/user-attachments/assets/6601a500-884d-40db-b2c5-777c8736072b)
 
+Results:-
+
 ![Screenshot 2024-08-26 112731](https://github.com/user-attachments/assets/0966cddb-6f67-4092-81b1-b636b8b516fd)
 
 ![hhh](https://github.com/user-attachments/assets/73794e05-74ad-4227-b26a-aebd248d174d)
